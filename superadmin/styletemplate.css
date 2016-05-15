@@ -1,0 +1,139 @@
+.general {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:10pt;
+  color:[bodytext];
+  text-align:justify;
+}
+.cell {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:10pt;
+  color:[bodytext];
+}
+.field {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:10pt;
+  color:[bodytext];
+}
+.sidebar {
+  font-family:verdana, Verdana, Arial, Helvetica;
+  font-size:10pt;
+  color:[bodytext];
+}
+.generalsm {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:8pt;
+  color:[bodytext];
+  text-align:justify;
+}
+.cellsm {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:8pt;
+  color:[bodytext];
+}
+.fieldsm {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:8pt;
+  color:[bodytext];
+}
+.sidebarsm {
+  font-family:verdana, Verdana, Arial, Helvetica;
+  font-size:8pt;
+  color:[bodytext];
+}
+.signup {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:8pt;
+  color:[bodytext];
+  background-color:#b0b2c2;
+  border-width:1;
+  border-style:solid;
+  border-color:#ffffff;
+}
+h1 {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:12pt;
+  color:[h1];
+}
+h2 {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:12pt;
+  font-weight:bold;
+  color:[h2];
+}
+h3 {
+  font-family:Verdana, Arial, Helvetica;
+  font-weight:bold;
+  font-size:small;
+  color:[h3];
+}
+h4 {
+  font-family:Verdana, Arial, Helvetica;
+  font-weight:bold;
+  font-size:x-small;
+  color:[h4];
+}
+.menunav {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:x-small;
+  font-weight:bold;
+  color:[sidefg];
+}
+.menunav a {
+  color:[sidelink];
+}
+.menunav a.active {
+  color:[sidealink];
+}
+.menunav a.visited {
+  color:[sidevlink];
+}
+.fg1 {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:10pt;
+  color:[fg1];
+}
+.fg2 {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:10pt;
+  color:[fg2];
+}
+.fg3 {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:8pt;
+  color:[fg3];
+}
+.fg4 {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:8pt;
+  color:[fg4];
+}
+.fg5 {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:8pt;
+  color:[fg5];
+}
+a {
+  text-decoration:none;
+  color:[link];
+}
+a.active {
+  color[alink];
+}
+a.visited {
+  color:[vlink];
+}
+.nav {
+  font-family:Verdana, Arial, Helvetica;
+  font-size:xx-small;
+  color:[navtext];
+}
+.nav a {
+  text-decoration:none;
+  color:[navlink];
+}
+.nav a.active {
+  color:[navalink];
+}
+.nav a.visited {
+  color:[navvlink];
+}

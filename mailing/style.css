@@ -1,0 +1,119 @@
+.pagetitle {
+  font-family:verdana, arial, helvetica;
+  font-size:10pt;
+  font-weight:bold;
+  color:<?php echo $fg4; ?>;
+  text-align:center;
+}
+.general {
+  font-family:verdana, arial, helvetica;
+  font-size:8pt;
+  color:#ffffff;
+  text-align:justify;
+}
+.cell {
+  font-family:verdana, arial, helvetica;
+  font-size:8pt;
+  color:#d8d8d8;
+}
+.smallfield {
+  font-family:arial, helvetica;
+  font-size:8pt;
+}
+.sidebar {
+  font-family:verdana, arial, helvetica;
+  font-size:8pt;
+  color:<?php echo $bodytext; ?>;
+}
+.heading1 {
+  font-family:verdana, arial, helvetica;
+  font-size:8pt;
+  font-weight:bold;
+  color:#272B48;
+}
+.item {
+  font-family:verdana, arial, helvetica;
+  font-size:8pt;
+  color:#373C68;
+}
+.disclaimer {
+  font-family:verdana, arial, helvetica;
+  font-size:7pt;
+  color:<?php echo $navtext; ?>;
+}
+.side {
+  font-family:verdana, arial, helvetica;
+  font-size:10pt;
+  color:<?php echo $sidefg; ?>;
+}
+.menunav {
+  font-family:arial, helvetica;
+  font-size:8pt;
+  font-weight:bold;
+  color:<?php echo $sidefg; ?>;
+}
+.menunav a {
+  color:<?php echo $sidelink; ?>;
+}
+.menunav a.active {
+  color:<?php echo $sidealink; ?>;
+}
+.menunav a.visited {
+  color:<?php echo $sidevlink; ?>;
+}
+.fg1 {
+  font-family:arial, helvetica;
+  font-size:8pt;
+  color:<?php echo $fg1; ?>;
+}
+.fg2 {
+  font-family:arial, helvetica;
+  font-size:8pt;
+  color:<?php echo $fg2; ?>;
+}
+.fg3 {
+  font-family:arial, helvetica;
+  font-size:8pt;
+  color:<?php echo $fg3; ?>;
+}
+.fg4 {
+  font-family:arial, helvetica;
+  font-size:8pt;
+  color:<?php echo $fg4; ?>;
+}
+.fg5 {
+  font-family:arial, helvetica;
+  font-size:8pt;
+  color:<?php echo $fg5; ?>;
+}
+h1 {
+  font-family:arial, helvetica;
+  font-size:10pt;
+  font-weight:bold;
+  color:#29EBF5;
+}
+a {
+  text-decoration:none;
+  color:<?php echo $link; ?>;
+}
+a.active {
+  color<?php echo $alink; ?>;
+}
+a.visited {
+  color:<?php echo $vlink; ?>;
+}
+.nav {
+  font-family:arial, helvetica;
+  font-size:8pt;
+  color:<?php echo $navtext; ?>;
+}
+.nav a {
+  text-decoration:none;
+  color:<?php echo $navlink; ?>;
+}
+.nav a.active {
+  color:<?php echo $navalink; ?>;
+}
+.nav a.visited {
+  color:<?php echo $navvlink; ?>;
+}

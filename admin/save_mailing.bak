@@ -1,0 +1,44 @@
+<?php
+include("path.inc");
+include("includes/lib_admin.inc");
+
+$date = date("Y-m-d");
+
+$arg = $_REQUEST["arg"];
+$id = $_REQUEST["id"];
+$subject = $_REQUEST["subject"];
+$content = $_REQUEST["content"];
+$mailingfromemail = $_REQUEST["mailingfromemail"];
+$mailingfromname = $_REQUEST["mailingfromname"];
+$mailingfooter = $_REQUEST["mailingfooter"];
+// If a particular mailing date has been requested, look it up.
+if ($arg == "2") {
+  if ($id) {
+    $sql = "UPDATE site_mailings " .
+           "SET mail_subject='$subject', " .
+           "    mail_content='$content' " .
+           "WHERE mail_id='$id'";
+    mysql_query($sql, $connect);
+  }
+  else {
+    $sql = "INSERT INTO site_mailings " .
+           "SET mail_date='$date', " .
+           "    mail_subject='$subject', " .
+           "    mail_content='$content'";
+    mysql_query($sql, $connect);
+  }
+  $sql = "UPDATE site_admin_misc " .
+         "SET am_mailingfooter='$mailingfooter', " .
+         "    am_mailingfromemail='$mailingfromemail', " .
+         "    am_mailingfromname='$mailingfromname' ";
+  mysql_query($sql, $connect);
+}
+// Delete mailing.
+elseif ($arg == "4") {
+  $sql = "DELETE FROM site_mailings " .
+         "WHERE mail_id='$id'";
+  mysql_query($sql, $connect);
+}
+
+header("Location: mailing.php");
+?>

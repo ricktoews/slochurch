@@ -1,0 +1,84 @@
+<html>
+<head>
+  <title> -  - Mailing</title>
+  <style type="text/css">
+<br />
+<b>Warning</b>:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in <b>/home/slochurc/public_html/mailing/pastoremail.php</b> on line <b>144</b><br />
+<br />
+<b>Warning</b>:  include(http://www.slochurch.com/mailing/style.css) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in <b>/home/slochurc/public_html/mailing/pastoremail.php</b> on line <b>144</b><br />
+<br />
+<b>Warning</b>:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://www.slochurch.com/mailing/style.css' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in <b>/home/slochurc/public_html/mailing/pastoremail.php</b> on line <b>144</b><br />
+  .contact {
+    font-family:arial, helvetica;
+    font-size:8pt;
+    font-color:#000000;
+  }
+  .footer {
+    font-family:arial, helvetica;
+    font-size:8pt;
+    color:#cccccc;
+  }
+  </style>
+</head>
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br />
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td bgcolor="#ffffff" colspan="3"><img src="http://www.slochurch.com/mailing/images/mailing_1.gif" /></td>
+  </tr>
+  <tr valign="top">
+    <td bgcolor="#ff772d" colspan="3"><img src="http://www.slochurch.com/mailing/images/mailing_2.gif" /></td>
+  </tr>
+  <tr valign="top">
+    <td bgcolor="#b0b2c2">
+      <img src="http://www.slochurch.com/mailing/images/mailing_3.jpg" /><br />
+      <table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#2e3b45"><img src="http://www.slochurch.com/images/spacer.gif" width="1" height="2" /></td></tr></table>
+    </td>
+    <td bgcolor="#2e3b45"><img src="http://www.slochurch.com/mailing/images/mailing_4.gif" /></td>
+    <td background="http://www.slochurch.com/mailing/images/mailing_bg.jpg">
+      <img src="http://www.slochurch.com/images/spacer.gif" width="1" height="10" /><br />
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="http://www.slochurch.com/images/spacer.gif" width="30" height="1" /></td>
+          <td width="99%">
+            <br />
+            <div class="general">
+<p><table border='0' cellpadding='0' cellspacing='0' width='100%'>  <tr valign='top'>    <td class='cell'>November 14, 2008</td>    <td align='right'><img src='http://www.slochurch.com/mailing/images/mailing_heading.gif' /></td>  </tr></table><img src='http://www.slochurch.com/images/spacer.gif' width='1' height='20' /><br /><table border='0' cellpadding='0' cellspacing='0' align='right'>  <tr>    <td><img src='http://www.slochurch.com/images/spacer.gif' width='10' height='1' /></td>    <td><table border='0' cellpadding='0' cellspacing='0'>  <tr>    <td><table bgcolor='#000000' border='0' cellpadding='0' cellspacing='1'><tr><td><img src='http://www.slochurch.com/images/mailing/new web site.jpg' /></td></tr></table></td>  </tr></table></td>  </tr></table><b>Dear Church</b></p>
+<p>We are ready to announce our new church website.  We have tried a number of things recently, but we think we have it now.</p>
+<p>To be honest, it is not quite finished, but while we have been preparing it, we have been filling in the other sites less and less, and the new one now has more content than the last - so you have a link to it today - you'll find the new site at www.slochurch.org (please note the .org part).  Take a look around and let us know what you think.</p>
+<p>This also means this weekly e-mail will be changing in the near future, but you'll notice that when it happens I'm sure.</p>
+<br clear='all' /><br /><p><table border='0' cellpadding='0' cellspacing='0' align='left'>  <tr>    <td><table border='0' cellpadding='0' cellspacing='0'>  <tr>    <td><table bgcolor='#000000' border='0' cellpadding='0' cellspacing='1'><tr><td><img src='http://www.slochurch.com/images/mailing/generations-1.jpg' /></td></tr></table></td>  </tr></table></td>    <td><img src='http://www.slochurch.com/images/spacer.gif' width='10' height='1' /></td>  </tr></table><b>Coming Up</b></p>
+<p>I will be preaching a simple salvation message this Sabbath called "First Steps".  What is our role?  What can I do?  How can I participate?  </p>
+<p>Then I am pleased to announce that Generations will be back next Sabbath.  It's titled "Gratitude" and Eric, Fritz and Jerri are our speakers.  Again, we have a great group and I look forward to hearing what they have to say.</p>
+<p>Then, over the holiday weekend, I will be back preaching with a message called "Love & Zeal" which will allow me to dive into one of my favorite exercises, that of considering relevant paradoxes as a way to truth.</p>
+<p>Following that, Pastor Bret will be preaching Dec 6th, and then we'll be getting into our Christmas services.  </p>
+<br clear='all' /><br /><p><table border='0' cellpadding='0' cellspacing='0' align='right'>  <tr>    <td><img src='http://www.slochurch.com/images/spacer.gif' width='10' height='1' /></td>    <td><table border='0' cellpadding='0' cellspacing='0'>  <tr>    <td><table bgcolor='#000000' border='0' cellpadding='0' cellspacing='1'><tr><td><img src='http://www.slochurch.com/images/mailing/potluck.jpg' /></td></tr></table></td>  </tr></table></td>  </tr></table><b>Potluck</b></p>
+<p>As we mentioned in church with Lauren a couple of weeks ago - we want everyone all the time to feel welcome at potluck.  You don't have to wait for a special week or an invitation.  We do hope though, that you'll bring food!  Each week, we need people to who are able to add to the bounty.  So consider making potluck part of your Sabbath ritual, and sharing your food with students and others who do not have the ability to cook or bring food.  </p>
+<br clear='all' /><br /><p><table border='0' cellpadding='0' cellspacing='0' align='left'>  <tr>    <td><table border='0' cellpadding='0' cellspacing='0'>  <tr>    <td><table bgcolor='#000000' border='0' cellpadding='0' cellspacing='1'><tr><td><img src='http://www.slochurch.com/images/mailing/finally.jpg' /></td></tr></table></td>  </tr>  <tr>    <td><img src='http://www.slochurch.com/images/spacer.gif' width='1' height='10' /></td>  </tr>  <tr>    <td><table bgcolor='#000000' border='0' cellpadding='0' cellspacing='1'><tr><td><img src='http://www.slochurch.com/images/mailing/what is the goepel.jpg' /></td></tr></table></td>  </tr></table></td>    <td><img src='http://www.slochurch.com/images/spacer.gif' width='10' height='1' /></td>  </tr></table><b>And Finally</b></p>
+<p>I want to finish this message to day by saying a huge big thank you to those of you who came out to our leadership meeting this week.  We considered important, weighty things.  We had good discussion.  We began to dream and talk in relevant ways.  As a pastor it is so gratifying to see the dedication and commitment shown last Monday night.  We all get pressure from various places in our lives, and part of our calling is to discern the necessary from the unnecessary.  </p>
+<p>I pray that as we minister together, the promptings and the callings will be clear.  Keep up the good work, and keep the conversation going.  I'll be bringing more to the table soon too.</p>
+<p>For now though, enjoy your Sabbath - may it be blessed.  </p>
+<p>Your Pastor, <br />Stephen</p>
+<br clear='all' /><br />            </div>
+          </td>
+          <td><img src="http://www.slochurch.com/images/spacer.gif" width="30" height="1" /></td>
+        </tr>
+      </table>
+      <br /><img src="http://www.slochurch.com/images/spacer.gif" width="1" height="10" /><br />
+    </td>
+  </tr>
+</table>
+<br />
+<!--
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="668">
+  <tr>
+    <td class="footer">
+      If you wish to be removed from our mailing lists, please click here: http://www.slochurch.com/maillist_remove.php?__PARAMS__.    </td>
+  </tr>
+</table>
+<br>
+-->
+</div>
+</body>
+</html>
